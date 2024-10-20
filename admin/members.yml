@@ -1,0 +1,14 @@
+# List the membership of this group.  (Remove entries if you have fewer
+# than three members.)
+#
+
+members:
+  - name: Arnav Kaher
+    uid: u7228481
+    contact details: u7228481@anu.edu.au
+  - name: Bei Jin
+    uid: u7634090
+    contact details: u7634090@anu.edu.au
+  - name: Madison Wright
+    uid: u7314519
+    contact deails: u7314519@anu.edu.au

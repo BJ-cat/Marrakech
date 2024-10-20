@@ -1,0 +1,28 @@
+# IMPORTANT: It is very important that you correctly complete this contribution
+# statement.
+ 
+declaration: >-
+  Stage F represents the culmination of the entire assignment. We declare that
+  the work toward our submission for all stages of this assignment was
+  distributed among the group members as follows:
+
+# State your contributions as integers out of 100. The total contribution should
+# be 100 or 99 (33/33/33 is fine).  (Remove entries if you have fewer than three
+# members).
+contributions:
+  - uid:  u7228481
+    contribution: 36
+  - uid: u7634090
+    contribution: 37
+  - uid: u7314519
+    contribution: 27
+
+# Sign *your* name and uids here. (Remove entries if you have fewer
+# than three members)
+signatures:
+  - name: Arnav Kaher
+    uid: u7228481
+  - name: Bei Jin
+    uid: u7634090
+  - name: Madison Wright
+    uid: u7314519
